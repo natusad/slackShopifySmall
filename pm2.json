@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "name": "slackbot",
+      "script": "npm",
+      "args": "start",
+      "env": {
+         "PORT": "3000",
+      }
+    }
+  ]
+}
